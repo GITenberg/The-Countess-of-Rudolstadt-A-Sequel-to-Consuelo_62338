@@ -1,0 +1,44 @@
+_repo: The-Countess-of-Rudolstadt-A-Sequel-to-Consuelo_62338
+_version: 0.0.1
+alternative_title: La Comtesse de Rudolstadt. English
+contributor:
+  translator:
+    agent_name: Robinson, Fayette
+    deathdate: 1859
+    gutenberg_agent_id: '1798'
+    url: http://www.gutenberg.org/2009/agents/1798
+creator:
+  author:
+    agent_name: Sand, George
+    aliases:
+    - Dupin, Amandine-Aurore-Lucile
+    - Dupin, Armandine Aurore Lucille
+    - Dudevant, Amandine-Aurore-Lucile
+    birthdate: 1804
+    deathdate: 1876
+    gutenberg_agent_id: '851'
+    url: http://www.gutenberg.org/2009/agents/851
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/George_Sand
+    - http://en.wikipedia.org/wiki/George_Sand
+description: ''
+gutenberg_issued: '2020-06-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62338'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Social role -- Europe -- Fiction'
+- !lcsh 'Europe -- Civilization -- Fiction'
+- !lcsh 'Opera -- Fiction'
+- !lcsh 'French fiction -- 19th century'
+- !lcc 'PQ'
+- !lcsh 'Man-woman relationships -- Fiction'
+- GITenberg
+title: 'The Countess of Rudolstadt
+
+  A Sequel to "Consuelo"'
+url: http://www.gutenberg.org/ebooks/62338
